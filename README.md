@@ -33,7 +33,4 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/darwin715/darwin715/output/snake.svg" alt="Snake animation" />
-
 ###
